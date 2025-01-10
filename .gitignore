@@ -1,0 +1,5 @@
+# Ignore database files
+.db
+
+# Ignore Poetry files gerados
+poetry.lock
